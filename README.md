@@ -4,11 +4,9 @@
 
 Neste desafio colocamos em prática tudo o que aprendemos nas aulas de conceitos de React-Native, consumimos uma api que foi desenvolvida no primeiro desafio exibindo os repositórios, tecnologias utilizadas no repositório, quantidade de likes e um botão aonde conseguimos curtir o repositório.
 
-Terceiro desafio da GoStack (Conceitos React-Native).
+[Link do terceiro desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native "Link do terceiro desafio")
 
 <img alt="Tela do desafio" width="300" src="https://github.com/victorreinor/gostack-desafio-conceitos-react-native/blob/master/tela%20do%20desafio.png" />
-
-[Link do terceiro desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native "Link do terceiro desafio")
 
 ## Passo-a-passo para rodar a aplicação
 
