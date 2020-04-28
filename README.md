@@ -6,6 +6,8 @@ Neste desafio colocamos em prática tudo o que aprendemos nas aulas de conceitos
 
 Terceiro desafio da GoStack (Conceitos React-Native).
 
+<img alt="Tela do desafio" src="https://github.com/victorreinor/gostack-desafio-conceitos-react-native/blob/master/tela%20do%20desafio.png" />
+
 [Link do terceiro desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native "Link do terceiro desafio")
 
 ## Passo-a-passo para rodar a aplicação
